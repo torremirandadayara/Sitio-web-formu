@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 350.00,
+      "id": 1,
+      "title": "Case Gigabyte C200 Glass",
+      "thumbnailUrl": "https://d2ulnfq8we0v3.cloudfront.net/cdn/990386/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/e/5/e5726fbad11112bcd08635999254fbea_2.jpg"
+    },
+    {
+      "precio": 460.00,
+      "id": 2,
+      "title": "MONITOR LG 19M38A, 18.5",
+      "thumbnailUrl": "https://d2ulnfq8we0v3.cloudfront.net/cdn/990386/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/2/6/26881d2a1a4e7de479e7dc3e0a3bfbca_21.jpg"
+    },
+    {
+      "precio": 510.00,
+      "id": 3,
+      "title": "CS TT VERSAT35 TG RBG",
+      "thumbnailUrl": "https://d2ulnfq8we0v3.cloudfront.net/cdn/990386/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/1/6/1605642079_ghjgjh.jpg"
+    },
+    {
+      "precio": 889.00,
+      "id": 4,
+      "title": "Procesador Intel Core i5-11400",
+      "thumbnailUrl": "https://d2ulnfq8we0v3.cloudfront.net/cdn/990386/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/d/f/df351125004ecfed0edb6058ba3f044f_2.jpg"
+    },
+    {
+      "precio": 625.00,
+      "id": 5,
+      "title": "Fuente de alimentación ",
+      "thumbnailUrl": "https://d2ulnfq8we0v3.cloudfront.net/cdn/990386/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/f/f/ff5948a772d20b6406b8fb78baec2d43.jpg"
+    },
+    {
+      "precio": 1810.00,
+      "id": 6,
+      "title": "Monitor Dell P2418HT",
+      "thumbnailUrl": "https://d2ulnfq8we0v3.cloudfront.net/cdn/990386/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/6/e/6e8b03c1c5b069c7e12947e84cd44dd8_14.jpg"
+    }
+]
